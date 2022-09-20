@@ -11,5 +11,5 @@ lesser debugged).
 Python 2.7 or 3.4+ is required.
 
 For more information please see the documentation in
-https://github.com/sqlobject/sqlobject/blob/master/docs/SQLObject.rst,
+[SQLObject.rst](../../../sqlobject/blob/master/docs/SQLObject.rst),
 or online at http://sqlobject.org/
